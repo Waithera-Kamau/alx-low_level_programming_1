@@ -1,5 +1,13 @@
 #include<stdio.h>
 
+/**
+ * main - Entry point
+ *
+ * description: using sizeof to print the size of various types
+ *
+ * t=return: always 0 (successful)
+ */
+
 int main(void)
 {
 	/* sizeof evaluates the size of a variable */
@@ -8,6 +16,7 @@ int main(void)
 	printf("Size of a long int: %lu byte(s)\n", sizeof(long int));
 	printf("Size of a long long int: %lu byte(s)\n", sizeof(long long int));
 	printf("Size of a float: %lu byte(s)\n", sizeof(float));
-/*This is where the function finalizes*/
+	
+	/*This is where the function finalizes*/
 	return (0);
 }

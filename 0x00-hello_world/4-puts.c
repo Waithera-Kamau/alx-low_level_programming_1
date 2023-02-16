@@ -1,8 +1,15 @@
 #include <stdio.h>
-/* This marks the beginning of the main function*/
+
+/**
+ * main - Entry point
+ *
+ * description: A C program that prints with put function
+ *
+ * return: Always ) (success)
+ */
+
 int main(void)
 {
-	/*This prints the statement without the printf function*/
-	puts("Programming is like building a multilingual puzzle\n");
+	("Programming is like building a multilingual puzzle\n");
 	return (0);
 }

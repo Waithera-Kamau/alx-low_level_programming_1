@@ -1,8 +1,14 @@
 #include<stdio.h>
 
+/**
+ * main - Entry point
+ *
+ * description : A C program that prints with printf function
+ *
+ * return : always 0 (success)
+ */
 int main(void)
 {
-	/* This marks the beginning of the function with printf*/
 	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }

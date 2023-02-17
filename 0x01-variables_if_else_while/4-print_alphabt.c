@@ -1,11 +1,14 @@
 #include <stdio.h>
+
+
 /**
  * main - Entry point
  *
- * Declaration: print all the letters except q and e, followed by a new line
+ * Decscription: print all the letters except q and e, followed by a new line
  *
  * Return: Always 0 (success)
  */
+
 int main(void)
 {
 	char ch = 'a';

@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Declaration: printing all the alphabet letters in small letters
+ * Description: printing all the alphabet letters in small letters
  *
  * Return: Always 0 (success)
  */

@@ -1,8 +1,10 @@
 #include<stdio.h>
+
+
 /**
  * main - Entry point
  *
- * Declaration: prints all single digit numbers of base 10 from 0
+ * Decscription: prints all single digit numbers of base 10 from 0
  *
  * Return: Always 0 (success)
  */

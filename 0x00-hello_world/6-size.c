@@ -3,9 +3,9 @@
 /**
  * main - Entry point
  *
- * description: using sizeof to print the size of various types
+ *Description: using sizeof to print the size of various types
  *
- * t=return: always 0 (successful)
+ *Return: Always 0 (Succesful)
  */
 
 int main(void)

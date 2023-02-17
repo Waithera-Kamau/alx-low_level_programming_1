@@ -4,7 +4,7 @@
 /**
  * main - Entry point
  *
- * Decscription: prints all single digit numbers of base 10 starting from 0, followed by a new line
+ * Description: prints all single digit numbers of base 10 starting from 0, followed by a new line
  *
  * Return: Always 0 (success)
  */
@@ -16,7 +16,7 @@ int main(void)
 	while (digit <= 9)
 	{
 		printf("%i", digit);
-		++digit:
+		++digit;
 	}
 	printf("\n");
 

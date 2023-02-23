@@ -3,6 +3,8 @@
 /**
  * main - check the code
  *
+ * Description: prints the alphabet 10 times on a new line
+ *
  * Return: void
  */
 

@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * main - Entry point
@@ -9,7 +10,7 @@
  *
  */
 
-itn main(void)
+int main(void)
 {
 	int sum, num;
 
